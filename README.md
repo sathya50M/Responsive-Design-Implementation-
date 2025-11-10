@@ -40,8 +40,9 @@ CSS3 – for styling and responsiveness
 
 📄 Description:
 This website showcases a variety of delicious food items and provides information about the food brand or restaurant. The design focuses on simplicity, readability, and a modern look while ensuring full 
+responsiveness for all devices.
 
 OUTPUT:
 
-responsiveness for all devices.
+<img width="1911" height="902" alt="Image" src="https://github.com/user-attachments/assets/6a67f594-c9dd-4867-8dc8-32fc8976a019" />
 
